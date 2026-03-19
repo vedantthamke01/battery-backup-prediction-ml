@@ -58,9 +58,7 @@ To analyze how battery capacity affects battery backup time and build a model th
 ---
 
 
-```
 
----
 
 ## 🤝 Contribution
 

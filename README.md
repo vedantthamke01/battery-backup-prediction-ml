@@ -57,14 +57,7 @@ To analyze how battery capacity affects battery backup time and build a model th
 
 ---
 
-## 📂 Project Structure
 
-```
-battery-backup-prediction-ml/
-│── data/                 # Dataset
-│── notebook/             # Jupyter Notebook
-│── src/                  # Source code
-│── README.md             # Project documentation
 ```
 
 ---
@@ -77,7 +70,7 @@ This is a beginner-friendly project. Suggestions and improvements are welcome!
 
 ## 📌 Author
 
-* Your Name
+* Vedant Rajendra Thamke
 
 ---
 
